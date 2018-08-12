@@ -26,8 +26,8 @@ python encode.py [input] (output)
 ```
 
 where:
-*[input] is .txt file to encode, and
-*(output) is the optional .hc output file name
+** [input] is .txt file to encode, and
+** (output) is the optional .hc output file name
 
 ### Decoding
 To encode a file, issue the following command:
@@ -37,8 +37,8 @@ python decode.py [input] (output)
 ```
 
 where:
-*\[input\] is .hc file to decode, and
-*\(output\) is the optional .txt output file name
+** [input] is .hc file to decode, and
+** (output) is the optional .txt output file name
 
 ## Report
 Included in this project is a detailed report on the time and compression efficiency of the encode.py program. The report also includes a thorough discussion of the implementation details, as well as some closing remarks on some areas of improvement.
